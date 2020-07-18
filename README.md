@@ -6,7 +6,7 @@ have a good knowledge in data structures and algorithms
 
 student at SASTRA University , Thanjavur ,India
 
-interested in mobile app development
+interested in mobile app development and IOT
 
 languages known:
 1.c
